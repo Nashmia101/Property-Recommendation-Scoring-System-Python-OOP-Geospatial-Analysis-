@@ -1,0 +1,25 @@
+{
+  "request": {
+    "house_importance": {
+      "suburb": "Clayton",
+      "prop_type": "apartment",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parking_spaces": 1,
+      "price": 900000,
+      "property_features":"air conditioning"
+    },
+    "amenities_accessibility": {
+      "train_station": "walk",
+      "school": {
+        "school_type": "Primary",
+        "accessibility": "cycle"
+      },
+      "medical_centre": "drive",
+      "sport_facility": {
+        "sport_played": "Cricket",
+        "accessibility": "optional"
+      }
+    }
+  }
+}
